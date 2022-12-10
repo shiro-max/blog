@@ -1,0 +1,76 @@
+.sidebar{
+    background: rgba(128, 113, 143, 0.149);
+}
+.profile-pic{
+    text-align: center;
+    padding-top: 30px;
+}
+.product-name{
+    color: rgb(109, 52, 109);
+    text-align: center;
+    margin-top: 40px;
+}
+.profile-name{
+    color: rgb(109, 52, 109);
+    text-align: center;
+}
+.about{
+    color: rgb(109, 52, 109);
+    text-align: center;
+}
+.sec-side-heading{
+    color: rgb(109, 52, 109);
+}
+.sidebar-menu{
+    padding-top: 60px;
+    padding-left: 40px;
+    color: rgb(109, 52, 109);
+}
+.logout{
+    margin-top: 80px;
+    padding: 20px;
+    font-size: smaller;
+}
+.btn-bd{
+    text-align: center;
+    color: rgba(114, 88, 139, 0.721);
+    --bs-btn-font-weight: 400;
+    --bs-btn-color: var(--bs-dark);
+    --bs-btn-bg: var(--bd-violet);
+    --bs-btn-border-color: var(--bd-violet);
+    --bs-btn-border-radius: .5rem;
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #{shade-color($bd-violet, 10%)};
+    --bs-btn-hover-border-color: #{shade-color($bd-violet, 10%)};
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #{shade-color($bd-violet, 20%)};
+    --bs-btn-active-border-color: #{shade-color($bd-violet, 20%)};
+}
+.sidebar-card-1{
+    background: #f445c885;
+    color: #ffffff;
+    margin-top: 40px;
+    padding: 20px;
+}
+.sidebar-card-2{
+    background: #911ec29b;
+    color: #ffffff;
+    margin-top: 40px;
+    padding: 20px;
+}
+.sidebar-card-3{
+    background: #3b0254cd;
+    color: #ffffff;
+    margin-top: 40px;
+    padding: auto;
+    height: 86%;
+}
+.folder-icon-1{
+    background: #79045c34;
+    margin-left: 90%;
+}
+.folder-icon-2{
+    background: #81118363;
+    margin-left: 90%;
+}
